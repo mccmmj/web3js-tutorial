@@ -1,0 +1,14 @@
+{ address: '0x427220cF49aeF23537eCc000663eF2B1d5377E95',
+  privateKey:
+   '0xaf99c45da9a2e25c12d68ffa9b92677917674c157ef257992aa056cf42419778',
+  signTransaction: [Function: signTransaction],
+  sign: [Function: sign],
+  encrypt: [Function: encrypt] }
+
+{ address: '0x990BE86E52087a9Fa89889be047923a9627904b7',
+  privateKey:
+   '0x901afce9876f791624242a000b4fa49e5cf0af6a4690845dad5a63c51ca57cbd',
+  signTransaction: [Function: signTransaction],
+  sign: [Function: sign],
+  encrypt: [Function: encrypt] }
+
